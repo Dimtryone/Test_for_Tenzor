@@ -1,0 +1,19 @@
+2024-03-17 20:01:04,400 - test - 57 - DEBUG - start test_sbis_page_button_contacts_exists
+2024-03-17 20:01:09,596 - test - 62 - DEBUG - Assertion passed: button Контакты exists on the page
+2024-03-17 20:01:09,598 - test - 67 - DEBUG - start test_sbis_page_button_contacts_exists
+2024-03-17 20:01:11,087 - test - 74 - DEBUG - Assertion passed: link is correctly
+2024-03-17 20:01:11,089 - test - 80 - DEBUG - Start test_block_power_people_exsits
+2024-03-17 20:01:15,143 - test - 91 - DEBUG - Assertion passed: url correctly
+2024-03-17 20:01:15,145 - test - 97 - DEBUG - Start test_block_power_people_exsits
+2024-03-17 20:01:16,832 - test - 101 - DEBUG - Assertion passed: block exists on the page
+2024-03-17 20:01:16,834 - test - 106 - DEBUG - start test_block_power_people_click
+2024-03-17 20:01:23,146 - test - 112 - DEBUG - Assertion passed: url is correctly
+2024-03-17 20:01:23,148 - test - 118 - DEBUG - Start test_size_photos
+2024-03-17 20:01:28,361 - test - 123 - DEBUG - Assertion passed: sizes of photos are correctly
+2024-03-17 20:01:28,363 - test - 129 - DEBUG - Start test_check_region
+2024-03-17 20:01:30,779 - test - 136 - DEBUG - Assertion passed: region is correctly
+2024-03-17 20:01:30,781 - test - 142 - DEBUG - Старт теста Проверка изменение региона
+2024-03-17 20:01:36,575 - test - 149 - DEBUG - Assertion passed: region изменен на Камчатский край
+2024-03-17 20:01:36,578 - test - 156 - DEBUG - Start test_sbis_downloads
+2024-03-17 20:01:36,578 - test - 158 - INFO - Clicking to download page
+2024-03-17 20:01:45,161 - test - 163 - DEBUG - Assertion passed: fail downloaded and size of file is correctly
