@@ -116,7 +116,7 @@ class SbisPage(BasePage):
         buttom = self.driver.find_element(*self.SBIS_FILE_DOWNLOAD)
         text_link = buttom.text
         buttom.click()
-        sleep(5)
+        sleep(10)
         return text_link
 
 
